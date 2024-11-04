@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="nombre">Alberto</string>
+    <string name="ciudad">Jaén(España)</string>
+
+    <string name="balance">Balance</string>
+    <string name="order">Order</string>
+    <string name="total">Total</string>
+    <string name="numBalance">000</string>
+    <string name="numOrder">10</string>
+    <string name="numTotal">000</string>
+
+
+</resources>
